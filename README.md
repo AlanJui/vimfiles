@@ -15,7 +15,7 @@ GVim for Windows 的設定檔，不同於 Linux 環境，安裝本設定檔需�
 git clone https://github.com/AlanJui/vimfiles.git $HOME\
 ```
 
-4. 在 $HOME 根目錄，製作一個連結 _vimrc ，指向 $HOME\vimfiles\_vimrc 檔案。
+4. 在 $HOME 根目錄，製作一個連結 _vimrc ，指向 $HOME\\vimfiles\\_vimrc 檔案。
 
 使用系統管理員身份，啟動 CMD App，然後輸入下列指令：
 
